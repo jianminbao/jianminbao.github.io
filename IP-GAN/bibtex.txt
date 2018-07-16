@@ -1,0 +1,7 @@
+@inproceedings{bao2018towards,
+  title={Towards Open-Set Identity Preserving Face Synthesis},
+  author={Bao, Jianmin and Chen, Dong and Wen, Fang and Li, Houqiang and Hua, Gang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={6713--6722},
+  year={2018}
+}

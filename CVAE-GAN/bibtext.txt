@@ -1,8 +1,0 @@
-@inproceedings{bao2017cvae,
-  title={CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training},
-  author={Bao, Jianmin and Chen, Dong and Wen, Fang and Li, Houqiang and Hua, Gang},
-  booktitle={2017 IEEE International Conference on Computer Vision (ICCV)},
-  pages={2764--2773},
-  year={2017},
-  organization={IEEE}
-}
