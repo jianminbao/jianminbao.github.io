@@ -1,0 +1,7 @@
+@InProceedings{Gu_2019_CVPR,
+author = {Gu, Shuyang and Bao, Jianmin and Yang, Hao and Chen, Dong and Wen, Fang and Yuan, Lu},
+title = {Mask-Guided Portrait Editing With Conditional GANs},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
