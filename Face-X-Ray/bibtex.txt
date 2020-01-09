@@ -1,0 +1,6 @@
+@article{li2019face,
+  title={Face X-ray for More General Face Forgery Detection},
+  author={Li, Lingzhi and Bao, Jianmin and Zhang, Ting and Yang, Hao and Chen, Dong and Wen, Fang and Guo, Baining},
+  journal={arXiv preprint arXiv:1912.13458},
+  year={2019}
+}

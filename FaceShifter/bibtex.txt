@@ -1,0 +1,6 @@
+@article{li2019faceshifter,
+  title={FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping},
+  author={Li, Lingzhi and Bao, Jianmin and Yang, Hao and Chen, Dong and Wen, Fang},
+  journal={arXiv preprint arXiv:1912.13457},
+  year={2019}
+}
