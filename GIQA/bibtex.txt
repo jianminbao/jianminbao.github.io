@@ -1,0 +1,6 @@
+@article{gu2020giqa,
+  title={GIQA: Generated Image Quality Assessment},
+  author={Gu, Shuyang and Bao, Jianmin and Chen, Dong and Wen, Fang},
+  journal={arXiv preprint arXiv:2003.08932},
+  year={2020}
+}
