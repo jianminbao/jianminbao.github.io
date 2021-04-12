@@ -1,0 +1,6 @@
+@article{fu2020unsupervised,
+  title={Unsupervised Pre-training for Person Re-identification},
+  author={Fu, Dengpan and Chen, Dongdong and Bao, Jianmin and Yang, Hao and Yuan, Lu and Zhang, Lei and Li, Houqiang and Chen, Dong},
+  journal={arXiv preprint arXiv:2012.03753},
+  year={2020}
+}
